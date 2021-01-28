@@ -1,5 +1,4 @@
 import random
-from tkinter import *
 from graphics import*
 
 def setUpWindow():
@@ -15,8 +14,6 @@ def setUpWindow():
     message.setFill("white")
     message.draw(win)
 
-    img=Image(Point(5,5),"flag.jpg")
-    img.draw(win)
 
     #draw text entry box for entering name
     nameDisplay=Text(Point(2.8,8),"Enter your name")
@@ -67,7 +64,6 @@ def main():
     
     win=setUpWindow()
 main()
-
 
 
 
