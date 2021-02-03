@@ -2,3 +2,6 @@ Perro
 Rojo
 Bicileta
 Grande
+Hola
+Comer
+Hermoso
